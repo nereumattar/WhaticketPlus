@@ -210,7 +210,8 @@ backend_start_pm2() {
 
   sudo su - deploywhaticketpus <<EOF
   cd /home/deploywhaticketpus/whaticket/backend
-  pm2 start whaticketpus/server.js --name whaticket-backend
+  pm2 start whaticketplus/server.js --name whaticket-backend
+  pm2 save
 EOF
 
   sleep 2
