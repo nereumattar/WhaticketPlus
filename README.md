@@ -32,7 +32,7 @@ Sabemos como pode ser desafiador gerenciar múltiplos canais de comunicação. P
 ## 💿 Instalação
 
 ```bash
-  sudo apt install -y git && git clone https://github.com/nereumattar/WhaticketPlus.git whaticket && sudo chmod -R 777 ./whaticket && cd ./whticket && sudo ./whaticketplus
+  sudo apt install -y git && git clone https://github.com/nereumattar/WhaticketPlus.git whaticket && sudo chmod -R 777 ./whaticket && cd ./whaticket && sudo ./whaticketplus
 ```
 
 <br /><br />
